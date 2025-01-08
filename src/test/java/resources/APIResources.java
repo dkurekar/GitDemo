@@ -16,6 +16,6 @@ public enum APIResources {
 	{
 		return resource;
 	}
-	
+	//The comment is added at the last
 
 }
